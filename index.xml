@@ -16,11 +16,11 @@
       <description>&lt;p&gt;In 2025, I&amp;rsquo;ve been to nine national parks, and each of them has been a life-changing experience. In January, we snowshoed in Glacier NP while skiing in Whitefish, MT. In March, my friends and I drove up from LA to Yosemite National Park. In July and August, I spent over three weeks driving around the Rocky Mountains from Austin, Texas all the way up to Yellowstone in Wyoming. Here&amp;rsquo;s my recap, through data and photos!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Why Blog?</title>
-      <link>http://localhost:1313/posts/about/</link>
-      <pubDate>Thu, 28 Aug 2025 23:44:32 -0500</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
-      <description>&lt;p&gt;Hi! My name is Bianca and I&amp;rsquo;m a recent graduate of Rice University and a current MSDS student at UT Austin. I&amp;rsquo;m a big fan of data, sports and nutrition, the outdoors, traveling, &lt;em&gt;Star Wars&lt;/em&gt;, and plenty of other things! While some of my hobbies and interests are intertwined, I love trying to find ways to connect them in new ways and learn new things in the process.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/me.jpg&#34; alt=&#34;Graduation photo of me&#34;&gt;&lt;/p&gt;</description>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/me2.jpg&#34; alt=&#34;Graduation photo of me&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi! My name is Bianca and I&amp;rsquo;m a recent graduate of Rice University and a current MSDS student at UT Austin.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve always seen the world through the lens of numbers and data. Statistics were always my go-to when writing a paper or having a debate with a classmate I disagreed with. As I developed my data skills through the Rice political science and data science coursework, I became passionate about using data visualization and storytelling to bridge the gap between complex data and the people who need to understand it. Translating complex research into actionable insights is critical to maintaining a transparent, accountable democracy.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
